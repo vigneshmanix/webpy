@@ -1,4 +1,4 @@
 practice
 ========
 
-First repo in github!
+Trying a web.py application
