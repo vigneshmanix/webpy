@@ -1,3 +1,3 @@
 practice
 ========
-Trying a web.py application
+Trying a web.py application.
